@@ -1,10 +1,5 @@
 ##OLÁ, BEM VINDO AO MEU PERIL👋
 
-<!--
-**bonettilais/bonettilais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Boas vindas ao meu perfil 💙💙
 Meu nome é Lais  Isabela Bonetti
 
@@ -15,7 +10,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 Você pode entrar em contato comigo 📫
 lais.bonetti@escola.pr.gov.br
 
-💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙
-
-
+![](https://media1.tenor.com/m/xVlgmC8rAHcAAAAC/corinthians-timao.gif)
+![](https://media.tenor.com/UhqVAq_VjwUAAAAi/squibi-196.gif)
+![](https://media.tenor.com/zAiEJ_4t5Y4AAAAi/minecraft-steve.gif)
 
